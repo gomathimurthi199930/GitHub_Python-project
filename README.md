@@ -16,3 +16,11 @@ This project aims to create an interactive desktop-based Zoo Management Website 
 ## Visual Output
 ![Images](https://github.com/user-attachments/assets/064ef281-1bab-4580-933f-23bd106e57c1)
 
+## Project insights
+- Created a multi-tab website interface using Python's Tkinter library.
+- Added a login and account creation system for secure ticket booking.
+- Displayed zoo details like opening hours, ticket prices, and animal statistics using tables and labels.
+- Included images, video playback, and a zoo map to make the site more interactive.
+- Enabled online ticket booking with user input validation and confirmation messages.
+- Organized contact information clearly with clickable map and social media icons.
+
