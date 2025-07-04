@@ -4,7 +4,7 @@
 This project aims to create an interactive desktop-based Zoo Management Website using Python's Tkinter library. The application simulates a full-featured zoological park website with user login, animal information, ticket booking system, contact details, and dashboard functionalities- all integrated in a multi-tab GUI.
 
 ## Source code
-- <a href="https://github.com/gomathimurthi199930/GitHub_Python-project/blob/main/Website%20creation%20Project.py"> view Queries</a>
+- <a href="https://github.com/gomathimurthi199930/GitHub_Python-project/blob/main/Website%20creation%20Project.py"> view coding</a>
 
 ## Key Features
 - Home Tab: Welcome screen with background visuals and introduction about the zoo.
